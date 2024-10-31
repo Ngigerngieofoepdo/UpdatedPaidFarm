@@ -53,7 +53,7 @@ Setting = {
         SwitchServerType = "serverhop" -- Replace it with "rejoin" if u want to rejoin the current server 
     }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ngigerngieofoepdo/NoSkidsAllowed/refs/heads/main/GatosSlapFarmPaid"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ngigerngieofoepdo/SigmaSlapFarm/refs/heads/main/ByGatoLol"))()
 end)
 local Button = Section.NewButton("Stop Farm",function()
 local function resetCharacter(player)
